@@ -1,0 +1,3 @@
+2023-12-15 19:19:52,866 INFO [main] c.r.c.Main [Main.java:12] -- Example log from Main
+2023-12-15 19:19:52,882 DEBUG [main] c.r.c.Main [Main.java:13] -- Example log from Main
+2023-12-15 19:19:52,884 WARN [main] c.r.c.Main [Main.java:14] -- Example log from Main
